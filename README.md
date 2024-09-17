@@ -4,5 +4,3 @@
 - 🌱 I’m currently learning a lot of computer science.
 - 🤔 I’m looking for help with learning coding
 - 📫 How to reach me: anthony.p.behnam@outlook.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I play piano!
